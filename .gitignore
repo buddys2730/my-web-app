@@ -1,0 +1,6 @@
+node_modules/
+mydatabase.db
+mydatabase.db-shm
+mydatabase.db-wal
+uploads/
+.config/
