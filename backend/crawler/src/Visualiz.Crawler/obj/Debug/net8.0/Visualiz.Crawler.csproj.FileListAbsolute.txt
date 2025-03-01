@@ -1,0 +1,12 @@
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler/bin/Debug/net8.0/Visualiz.Crawler.deps.json
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler/bin/Debug/net8.0/Visualiz.Crawler.dll
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler/bin/Debug/net8.0/Visualiz.Crawler.pdb
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler/obj/Debug/net8.0/Visualiz.Crawler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler/obj/Debug/net8.0/Visualiz.Crawler.AssemblyInfoInputs.cache
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler/obj/Debug/net8.0/Visualiz.Crawler.AssemblyInfo.cs
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler/obj/Debug/net8.0/Visualiz.Crawler.csproj.CoreCompileInputs.cache
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler/obj/Debug/net8.0/Visualiz.Crawler.sourcelink.json
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler/obj/Debug/net8.0/Visualiz.Crawler.dll
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler/obj/Debug/net8.0/refint/Visualiz.Crawler.dll
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler/obj/Debug/net8.0/Visualiz.Crawler.pdb
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler/obj/Debug/net8.0/ref/Visualiz.Crawler.dll

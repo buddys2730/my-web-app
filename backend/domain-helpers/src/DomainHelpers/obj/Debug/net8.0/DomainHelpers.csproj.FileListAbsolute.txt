@@ -1,0 +1,12 @@
+/Users/masashitakao/Desktop/my-web-app/backend/domain-helpers/src/DomainHelpers/bin/Debug/net8.0/DomainHelpers.deps.json
+/Users/masashitakao/Desktop/my-web-app/backend/domain-helpers/src/DomainHelpers/bin/Debug/net8.0/DomainHelpers.dll
+/Users/masashitakao/Desktop/my-web-app/backend/domain-helpers/src/DomainHelpers/bin/Debug/net8.0/DomainHelpers.pdb
+/Users/masashitakao/Desktop/my-web-app/backend/domain-helpers/src/DomainHelpers/obj/Debug/net8.0/DomainHelpers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masashitakao/Desktop/my-web-app/backend/domain-helpers/src/DomainHelpers/obj/Debug/net8.0/DomainHelpers.AssemblyInfoInputs.cache
+/Users/masashitakao/Desktop/my-web-app/backend/domain-helpers/src/DomainHelpers/obj/Debug/net8.0/DomainHelpers.AssemblyInfo.cs
+/Users/masashitakao/Desktop/my-web-app/backend/domain-helpers/src/DomainHelpers/obj/Debug/net8.0/DomainHelpers.csproj.CoreCompileInputs.cache
+/Users/masashitakao/Desktop/my-web-app/backend/domain-helpers/src/DomainHelpers/obj/Debug/net8.0/DomainHelpers.sourcelink.json
+/Users/masashitakao/Desktop/my-web-app/backend/domain-helpers/src/DomainHelpers/obj/Debug/net8.0/DomainHelpers.dll
+/Users/masashitakao/Desktop/my-web-app/backend/domain-helpers/src/DomainHelpers/obj/Debug/net8.0/refint/DomainHelpers.dll
+/Users/masashitakao/Desktop/my-web-app/backend/domain-helpers/src/DomainHelpers/obj/Debug/net8.0/DomainHelpers.pdb
+/Users/masashitakao/Desktop/my-web-app/backend/domain-helpers/src/DomainHelpers/obj/Debug/net8.0/ref/DomainHelpers.dll

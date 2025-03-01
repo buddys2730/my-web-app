@@ -1,0 +1,15 @@
+/Users/masashitakao/Desktop/my-web-app/backend/WebSocketServer/bin/Debug/net9.0/WebSocketServer
+/Users/masashitakao/Desktop/my-web-app/backend/WebSocketServer/bin/Debug/net9.0/WebSocketServer.deps.json
+/Users/masashitakao/Desktop/my-web-app/backend/WebSocketServer/bin/Debug/net9.0/WebSocketServer.runtimeconfig.json
+/Users/masashitakao/Desktop/my-web-app/backend/WebSocketServer/bin/Debug/net9.0/WebSocketServer.dll
+/Users/masashitakao/Desktop/my-web-app/backend/WebSocketServer/bin/Debug/net9.0/WebSocketServer.pdb
+/Users/masashitakao/Desktop/my-web-app/backend/WebSocketServer/obj/Debug/net9.0/WebSocketServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masashitakao/Desktop/my-web-app/backend/WebSocketServer/obj/Debug/net9.0/WebSocketServer.AssemblyInfoInputs.cache
+/Users/masashitakao/Desktop/my-web-app/backend/WebSocketServer/obj/Debug/net9.0/WebSocketServer.AssemblyInfo.cs
+/Users/masashitakao/Desktop/my-web-app/backend/WebSocketServer/obj/Debug/net9.0/WebSocketServer.csproj.CoreCompileInputs.cache
+/Users/masashitakao/Desktop/my-web-app/backend/WebSocketServer/obj/Debug/net9.0/WebSocketServer.sourcelink.json
+/Users/masashitakao/Desktop/my-web-app/backend/WebSocketServer/obj/Debug/net9.0/WebSocketServer.dll
+/Users/masashitakao/Desktop/my-web-app/backend/WebSocketServer/obj/Debug/net9.0/refint/WebSocketServer.dll
+/Users/masashitakao/Desktop/my-web-app/backend/WebSocketServer/obj/Debug/net9.0/WebSocketServer.pdb
+/Users/masashitakao/Desktop/my-web-app/backend/WebSocketServer/obj/Debug/net9.0/WebSocketServer.genruntimeconfig.cache
+/Users/masashitakao/Desktop/my-web-app/backend/WebSocketServer/obj/Debug/net9.0/ref/WebSocketServer.dll

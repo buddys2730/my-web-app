@@ -1,0 +1,12 @@
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler.Infrastructure/bin/Debug/net8.0/Visualiz.Crawler.Infrastructure.deps.json
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler.Infrastructure/bin/Debug/net8.0/Visualiz.Crawler.Infrastructure.dll
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler.Infrastructure/bin/Debug/net8.0/Visualiz.Crawler.Infrastructure.pdb
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler.Infrastructure/obj/Debug/net8.0/Visualiz.Crawler.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler.Infrastructure/obj/Debug/net8.0/Visualiz.Crawler.Infrastructure.AssemblyInfoInputs.cache
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler.Infrastructure/obj/Debug/net8.0/Visualiz.Crawler.Infrastructure.AssemblyInfo.cs
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler.Infrastructure/obj/Debug/net8.0/Visualiz.Crawler.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler.Infrastructure/obj/Debug/net8.0/Visualiz.Crawler.Infrastructure.sourcelink.json
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler.Infrastructure/obj/Debug/net8.0/Visualiz.Crawler.Infrastructure.dll
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler.Infrastructure/obj/Debug/net8.0/refint/Visualiz.Crawler.Infrastructure.dll
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler.Infrastructure/obj/Debug/net8.0/Visualiz.Crawler.Infrastructure.pdb
+/Users/masashitakao/Desktop/my-web-app/backend/crawler/src/Visualiz.Crawler.Infrastructure/obj/Debug/net8.0/ref/Visualiz.Crawler.Infrastructure.dll
